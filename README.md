@@ -1,1 +1,1 @@
-# Welcome maitakeLanguageFunctionGroups ( Abbreviations :  mLFG )
+# Welcome GoLanguageFunctionGroups ( Abbreviations :  GLFG )
