@@ -1,1 +1,1 @@
-# Welcome GoLanguageFunctionGroups ( Abbreviations :  GLFG )
+# Welcome Go_External_Function_Groups ( Abbreviations :  GEFG )
